@@ -10,4 +10,4 @@ redirect_from:
 
 This is where you can find thomal29's GitHub collection on the web!
 
-Lorem ipsum.
+Ad meliora.
